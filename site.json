@@ -19,7 +19,9 @@
         "Kit restocking and servicing"
       ],
       "website": "https://brisbanefirstaidsupplies.com.au",
-      "email": "info@brisbanefirstaidsupplies.com.au"
+      "email": "info@brisbanefirstaidsupplies.com.au",
+      "logo": "/assets/brisbane-first-aid-logo.png",
+      "logoAlt": "Brisbane First Aid Supplies"
     },
     {
       "slug": "sydney-first-aid-supplies",
@@ -34,7 +36,9 @@
         "On-site first aid kit restocking"
       ],
       "website": "https://sydneyfirstaidsupplies.com.au",
-      "email": ""
+      "email": "",
+      "logo": "/assets/sydney-first-aid-logo.png",
+      "logoAlt": "Sydney First Aid Supplies"
     },
     {
       "slug": "renee-enterprises",
@@ -45,7 +49,9 @@
       "services": [],
       "website": "https://brisbanefirstaidsupplies.com.au",
       "email": "info@brisbanefirstaidsupplies.com.au",
-      "websiteLabel": "Visit Brisbane First Aid Supplies"
+      "websiteLabel": "Visit Brisbane First Aid Supplies",
+      "logo": "/assets/brisbane-first-aid-logo.png",
+      "logoAlt": "Brisbane First Aid Supplies"
     },
     {
       "slug": "diecast-trading-co",
@@ -57,7 +63,9 @@
       "services": [],
       "website": "https://diecastbids.com.au/",
       "email": "",
-      "websiteLabel": "Visit Diecast Bids"
+      "websiteLabel": "Visit Diecast Bids",
+      "logo": "/assets/diecast-bids-logo.png",
+      "logoAlt": "Diecast Bids"
     }
   ]
 }
