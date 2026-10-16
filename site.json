@@ -45,6 +45,17 @@
       "services": [],
       "website": "https://brisbanefirstaidsupplies.com.au",
       "email": "info@brisbanefirstaidsupplies.com.au"
+    },
+    {
+      "slug": "diecast-trading-co",
+      "name": "Diecast Trading Co",
+      "category": "Ecommerce & collectibles",
+      "status": "Coming soon",
+      "summary": "An exciting new ecommerce trading platform for enthusiasts and collectors.",
+      "description": "Diecast Trading Co is coming soon: an exciting new ecommerce trading platform for diecast enthusiasts and collectors. Watch this space for launch updates.",
+      "services": [],
+      "website": "",
+      "email": ""
     }
   ]
 }
