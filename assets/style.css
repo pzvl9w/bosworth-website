@@ -74,3 +74,4 @@ input,select{border-color:#adbfca;background:#fffdf8}
 
 .business-hero{object-position:65% center;background:#f4f3f1}.business-hero-contain{object-fit:contain;object-position:center}.business-hero-dark{background:#101a24}
 
+.business-initials{display:block;white-space:nowrap}
