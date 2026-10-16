@@ -35,3 +35,21 @@ input,select{border-color:#adbfca;background:#fffdf8}
 @media(max-width:600px){header{padding-top:14px;padding-bottom:14px}header .identity{width:220px;height:74px}.hero-copy{width:100%;padding-top:42px;padding-bottom:30px}h1{font-size:59px;letter-spacing:-3.4px}h2{letter-spacing:-1.6px}.sunrise-panel{position:relative;right:auto;top:auto;width:100%;height:340px;margin-bottom:28px;border-radius:28px 3px 3px 3px}.sunrise-panel img{object-position:32% center}.sunrise-panel .art-motto{font-size:27px;left:23px;bottom:23px}.page-intro h1{letter-spacing:-2.8px}.footer-top .identity{width:270px;height:90px}.menu-toggle{border-color:#b6c7ce}}
 
 .sunrise-panel .art-motto{position:absolute}
+
+/* Full-width sunrise hero and official trading-name logos. */
+.hero{padding:0;isolation:isolate;background:#062c3e;color:#fffaf0}
+.hero .sunrise-panel{position:absolute;inset:0;z-index:-1;width:100%;height:100%;margin:0;border-radius:0;opacity:1}
+.hero .sunrise-panel img{object-position:center 60%;width:100%;height:100%}
+.hero .sunrise-panel:after{background:linear-gradient(90deg,#041d30e8 0%,#041d30a6 37%,#041d301a 75%),linear-gradient(0deg,#041d30d4 0%,#041d3000 28%)}
+.hero-copy{width:65%;max-width:900px;margin-left:6%;padding:85px 0 65px;min-height:620px}
+.hero .eyebrow{color:#f3d29b}.hero h1{font-size:clamp(64px,6.5vw,104px);text-shadow:0 2px 24px #062c3e24}.hero em{color:#f3ca7d}
+.hero .intro{color:#f3f4ef}.hero .button{background:#f1d49b;color:#062c3e}.hero .button:hover{background:#ffe4b2}.hero .text-link{color:#fffaf0;border-color:#efcb88}
+.hero-bottom{margin:0 6%;padding:24px 0;color:#f0f0e6;border-color:#ffffff45}
+.brand-row{grid-template-columns:170px 1.3fr 1fr 24px;gap:30px;align-items:center}
+.brand-thumbnail{display:flex;align-items:center;justify-content:center;min-width:0;width:170px;height:106px;padding:10px;background:white;border:1px solid #dce4e8;border-radius:6px}
+.brand-thumbnail img{width:100%;height:100%;object-fit:contain}.brand-info h3{margin-top:12px;margin-bottom:0}.brand-arrow{font-size:23px}
+.business-logo-section{padding:50px 6%;background:#fff;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:center}
+.business-logo{display:block;width:auto;max-width:min(100%,760px);height:auto;max-height:340px;object-fit:contain}
+@media(min-width:1500px){.hero-copy{padding-top:90px;min-height:650px}}
+@media(max-width:900px){.hero-copy{width:80%;min-height:600px;padding-top:70px}.brand-row{grid-template-columns:140px 1.3fr 1fr 22px;gap:20px}.brand-thumbnail{width:140px;height:95px}.brand-info h3{font-size:25px}.business-logo{max-height:280px}}
+@media(max-width:600px){.hero-copy{width:88%;margin-left:6%;padding:48px 0 50px;min-height:650px}.hero h1{font-size:59px}.hero .sunrise-panel{position:absolute;inset:0;width:100%;height:100%;margin:0;border-radius:0}.hero .sunrise-panel img{object-position:44% center}.hero .sunrise-panel:after{background:linear-gradient(90deg,#041d30de,#041d306e),linear-gradient(0deg,#041d30cf,#041d3000 50%)}.hero-bottom{margin:0 6%;padding:18px 0}.brand-row{grid-template-columns:105px 1fr 20px;gap:15px;align-items:start}.brand-thumbnail{width:105px;height:82px;grid-column:1;grid-row:1/3;padding:7px}.brand-row .brand-info{grid-column:2;grid-row:1}.brand-row .eyebrow,.brand-row h3{grid-column:auto}.brand-info h3{font-size:23px;margin-top:10px}.brand-row p{grid-column:2;grid-row:2;font-size:13px}.brand-row>.brand-arrow:last-child{grid-column:3;grid-row:1}.brand-row .status-badge{font-size:8px;padding:4px 6px;letter-spacing:.7px}.business-logo-section{padding:34px 6%}.business-logo{max-height:230px}}
