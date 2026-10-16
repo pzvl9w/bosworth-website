@@ -66,6 +66,20 @@
       "websiteLabel": "Visit Diecast Bids",
       "logo": "/assets/diecast-bids-logo.png",
       "logoAlt": "Diecast Bids"
+    },
+    {
+      "slug": "allpointsnostatus",
+      "name": "All Points No Status",
+      "category": "Travel & social media",
+      "summary": "Australian frequent-flyer points guides and travel tips. Follow @allpointsnostatus on Instagram.",
+      "description": "All Points No Status is an Instagram page and website helping Australians make sense of frequent-flyer points. Explore plain-English guides to Qantas and Velocity, earning points through everyday spending, and finding reward seats. Follow @allpointsnostatus on Instagram for travel tips and points updates.",
+      "services": [],
+      "website": "https://allpointsnostatus.com/",
+      "websiteLabel": "Visit All Points No Status",
+      "instagram": "https://www.instagram.com/allpointsnostatus/",
+      "email": "",
+      "logo": "/assets/all-points-no-status-logo.svg",
+      "logoAlt": "All Points No Status"
     }
   ],
   "abn": "65 684 524 669"
