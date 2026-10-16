@@ -29,7 +29,32 @@
         "position": "65% center",
         "width": 1200,
         "height": 675
-      }
+      },
+      "gallery": [
+        {
+          "src": "/assets/brisbane-business-hero.png",
+          "alt": "Workplace team reviewing first aid kit servicing",
+          "fit": "cover",
+          "position": "65% center",
+          "width": 1200,
+          "height": 675
+        },
+        {
+          "src": "/assets/brisbane-vehicle.png",
+          "alt": "First aid kit for vehicles and travel",
+          "fit": "contain"
+        },
+        {
+          "src": "/assets/brisbane-workplace.png",
+          "alt": "Workplace first aid supplies",
+          "fit": "contain"
+        },
+        {
+          "src": "/assets/brisbane-aed.png",
+          "alt": "Defibrillator and first aid equipment",
+          "fit": "contain"
+        }
+      ]
     },
     {
       "slug": "sydney-first-aid-supplies",
@@ -53,7 +78,31 @@
         "fit": "contain",
         "width": 1200,
         "height": 1800
-      }
+      },
+      "gallery": [
+        {
+          "src": "/assets/sydney-business-hero.png",
+          "alt": "Sydney First Aid Supplies refill pack with first aid essentials",
+          "fit": "contain",
+          "width": 1200,
+          "height": 1800
+        },
+        {
+          "src": "/assets/sydney-about.jpg",
+          "alt": "Sydney First Aid Supplies business photograph",
+          "fit": "contain"
+        },
+        {
+          "src": "/assets/sydney-kit.png",
+          "alt": "Sydney First Aid Supplies workplace kit",
+          "fit": "contain"
+        },
+        {
+          "src": "/assets/sydney-aed.png",
+          "alt": "Defibrillator from the Sydney First Aid Supplies range",
+          "fit": "contain"
+        }
+      ]
     },
     {
       "slug": "renee-enterprises",
@@ -74,7 +123,32 @@
         "position": "65% center",
         "width": 1200,
         "height": 675
-      }
+      },
+      "gallery": [
+        {
+          "src": "/assets/brisbane-business-hero.png",
+          "alt": "Workplace team from the Brisbane First Aid Supplies servicing website",
+          "fit": "cover",
+          "position": "65% center",
+          "width": 1200,
+          "height": 675
+        },
+        {
+          "src": "/assets/brisbane-vehicle.png",
+          "alt": "First aid kit for vehicles and travel",
+          "fit": "contain"
+        },
+        {
+          "src": "/assets/brisbane-workplace.png",
+          "alt": "Workplace first aid supplies",
+          "fit": "contain"
+        },
+        {
+          "src": "/assets/brisbane-aed.png",
+          "alt": "Defibrillator and first aid equipment",
+          "fit": "contain"
+        }
+      ]
     },
     {
       "slug": "diecast-trading-co",
@@ -96,7 +170,17 @@
         "background": "#101a24",
         "width": 512,
         "height": 348
-      }
+      },
+      "gallery": [
+        {
+          "src": "/assets/diecast-bids-logo.png",
+          "alt": "Diecast Bids illuminated sports car graphic",
+          "fit": "contain",
+          "background": "#101a24",
+          "width": 512,
+          "height": 348
+        }
+      ]
     },
     {
       "slug": "allpointsnostatus",
@@ -117,7 +201,21 @@
         "fit": "contain",
         "width": 1200,
         "height": 630
-      }
+      },
+      "gallery": [
+        {
+          "src": "/assets/allpoints-business-hero.jpg",
+          "alt": "All Points No Status graphic: Stop dreaming about points. Start flying on them.",
+          "fit": "contain",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "src": "/assets/all-points-no-status-logo.svg",
+          "alt": "All Points No Status original brand graphic",
+          "fit": "contain"
+        }
+      ]
     }
   ],
   "abn": "65 684 524 669"

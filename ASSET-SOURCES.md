@@ -18,3 +18,14 @@ Company sunrise photograph: supplied and owned by the user. Company logo generat
 - Diecast: existing official Diecast Bids sports car mark, shown on a dark background. The website was unavailable during this update; no additional photograph could be retrieved.
 
 Original assets preserved. Graphics use contain sizing to keep their lettering and products visible; workplace photography uses cover sizing.
+
+## Rotating business galleries — 17 October 2026
+
+- brisbane-vehicle.png: https://brisbanefirstaidsupplies.com.au/cdn/shop/files/bfas-vehicle-australian-ute.png?v=1790305639&width=900 — First aid kit for vehicles and travel.
+- brisbane-workplace.png: https://brisbanefirstaidsupplies.com.au/cdn/shop/files/workplace-collection.png?v=1786087070&width=900 — Workplace first aid supplies.
+- brisbane-aed.png: https://brisbanefirstaidsupplies.com.au/cdn/shop/files/aed-collection-2.png?v=1786085255&width=900 — Defibrillator and first aid equipment.
+- sydney-about.jpg: https://sydneyfirstaidsupplies.com.au/cdn/shop/files/sydney-first-aid-supplies-about-us.jpg?v=1759040866&width=900 — Sydney First Aid Supplies business photograph.
+- sydney-kit.png: https://sydneyfirstaidsupplies.com.au/cdn/shop/collections/1-30_LP_SFAS_front_2.png?v=1783580421&width=900 — Sydney First Aid Supplies workplace kit.
+- sydney-aed.png: https://sydneyfirstaidsupplies.com.au/cdn/shop/collections/brisbane-first-aid-defibrillator_bcc63001-75cd-4de9-b220-f5cebfce24f9.png?v=1771894012&width=900 — Defibrillator from the Sydney First Aid Supplies range.
+
+Renee shares Brisbane imagery. All Points No Status rotates its existing official social graphic and brand artwork; no additional photos were present on the inspected home and guide pages. Diecast Bids currently offers only the existing car mark, so it remains a single image.
