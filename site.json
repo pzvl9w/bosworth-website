@@ -1,0 +1,50 @@
+{
+  "company": "Bosworth Enterprises PTY LTD",
+  "domain": "https://www.bosworth.net.au",
+  "email": "enterprises@bosworth.net.au",
+  "phone": "",
+  "logo": "/assets/bosentlogo.png",
+  "description": "Bosworth Enterprises PTY LTD — Building brighter tomorrows. Company information, Brisbane and Sydney First Aid Supplies, and trading-name enquiries.",
+  "brands": [
+    {
+      "slug": "brisbane-first-aid-supplies",
+      "name": "Brisbane First Aid (B F A) Supplies",
+      "category": "First aid supplies",
+      "summary": "First aid kits, supplies and local kit servicing for Brisbane workplaces.",
+      "description": "Brisbane First Aid Supplies provides workplace first aid kits, refills, defibrillators and first aid supplies. Local kit servicing helps businesses check stock and replace used or expired items. Renee Enterprises is now known as Brisbane First Aid Supplies.",
+      "services": [
+        "Workplace first aid kits and refills",
+        "First aid and medical supplies",
+        "Defibrillators",
+        "Kit restocking and servicing"
+      ],
+      "website": "https://brisbanefirstaidsupplies.com.au",
+      "email": "info@brisbanefirstaidsupplies.com.au"
+    },
+    {
+      "slug": "sydney-first-aid-supplies",
+      "name": "Sydney First Aid (S F A) Supplies",
+      "category": "First aid supplies",
+      "summary": "First aid kits, refills and on-site restocking for Sydney workplaces.",
+      "description": "Sydney First Aid Supplies offers first aid kits, kit refills and workplace supplies. Visit the business website to explore products or enquire about on-site kit restocking.",
+      "services": [
+        "Workplace first aid kits",
+        "First aid kit refills",
+        "First aid supplies and defibrillators",
+        "On-site first aid kit restocking"
+      ],
+      "website": "https://sydneyfirstaidsupplies.com.au",
+      "email": ""
+    },
+    {
+      "slug": "renee-enterprises",
+      "name": "Renee Enterprises",
+      "category": "Business name history",
+      "summary": "Now known as Brisbane First Aid Supplies.",
+      "description": "Looking for Renee Enterprises? The business is now known as Brisbane First Aid Supplies. Visit Brisbane First Aid Supplies for current products, services and business enquiries.",
+      "services": [],
+      "website": "https://brisbanefirstaidsupplies.com.au",
+      "email": "info@brisbanefirstaidsupplies.com.au"
+    }
+  ]
+}
