@@ -60,3 +60,14 @@ input,select{border-color:#adbfca;background:#fffdf8}
 .page-photo{display:block;justify-self:end;width:100%;max-width:580px;height:310px;object-fit:cover;object-position:32% center;border-radius:28px 4px 4px 4px}
 @media(max-width:900px){.page-intro{gap:30px;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}.page-intro-copy h1{font-size:48px;letter-spacing:-2.5px}.page-photo{height:290px}}
 @media(max-width:600px){.page-intro{grid-template-columns:1fr;gap:30px}.page-intro-copy h1{font-size:44px;letter-spacing:-2.5px}.page-photo{width:92%;height:220px;justify-self:end;border-radius:25px 3px 3px 3px}}
+
+/* Place the homepage header over the sunrise sky. */
+.home-page header{position:absolute;top:0;left:0;right:0;z-index:5;background:transparent;border-bottom:1px solid #062c3e20}
+.home-page .hero-copy{padding-top:205px;min-height:750px}
+.home-page .hero .sunrise-panel:after{background:linear-gradient(180deg,#e6edf2e8 0px,#dce5edbe 105px,#dce5ed00 200px),linear-gradient(90deg,#041d30e8 0%,#041d30a6 37%,#041d301a 75%),linear-gradient(0deg,#041d30d4 0%,#041d3000 28%)}
+.home-page header nav a{color:#062c3e}.home-page header nav a:hover,.home-page header nav a[aria-current]{color:#77501b}
+.home-page .menu-toggle{background:#f7f7edc9}
+@media(min-width:1500px){.home-page .hero-copy{padding-top:210px;min-height:780px}}
+@media(max-width:900px){.home-page .hero-copy{padding-top:185px;min-height:730px}}
+@media(max-width:600px){.home-page header{padding-top:14px;padding-bottom:14px}.home-page header nav.open{background:#edf2f4f5;padding:0 16px;border-radius:4px}.home-page .hero-copy{padding-top:155px;min-height:750px}.home-page .hero .sunrise-panel:after{background:linear-gradient(180deg,#e6edf2ed 0px,#dce5edcf 85px,#dce5ed00 160px),linear-gradient(90deg,#041d30de,#041d306e),linear-gradient(0deg,#041d30cf,#041d3000 50%)}}
+.home-page .hero .sunrise-panel:after{background:linear-gradient(180deg,#041d3000 0%,#041d3000 10%,#041d306e 29%,#041d306e 52%,#041d30df 100%)}
