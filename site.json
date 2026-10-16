@@ -21,7 +21,15 @@
       "website": "https://brisbanefirstaidsupplies.com.au",
       "email": "info@brisbanefirstaidsupplies.com.au",
       "logo": "/assets/brisbane-first-aid-logo.png",
-      "logoAlt": "Brisbane First Aid Supplies"
+      "logoAlt": "Brisbane First Aid Supplies",
+      "hero": {
+        "src": "/assets/brisbane-business-hero.png",
+        "alt": "Workplace team reviewing first aid kit servicing",
+        "fit": "cover",
+        "position": "65% center",
+        "width": 1200,
+        "height": 675
+      }
     },
     {
       "slug": "sydney-first-aid-supplies",
@@ -38,7 +46,14 @@
       "website": "https://sydneyfirstaidsupplies.com.au",
       "email": "",
       "logo": "/assets/sydney-first-aid-logo.png",
-      "logoAlt": "Sydney First Aid Supplies"
+      "logoAlt": "Sydney First Aid Supplies",
+      "hero": {
+        "src": "/assets/sydney-business-hero.png",
+        "alt": "Sydney First Aid Supplies refill pack with first aid essentials",
+        "fit": "contain",
+        "width": 1200,
+        "height": 1800
+      }
     },
     {
       "slug": "renee-enterprises",
@@ -51,7 +66,15 @@
       "email": "info@brisbanefirstaidsupplies.com.au",
       "websiteLabel": "Visit Brisbane First Aid Supplies",
       "logo": "/assets/brisbane-first-aid-logo.png",
-      "logoAlt": "Brisbane First Aid Supplies"
+      "logoAlt": "Brisbane First Aid Supplies",
+      "hero": {
+        "src": "/assets/brisbane-business-hero.png",
+        "alt": "Workplace team from the Brisbane First Aid Supplies servicing website",
+        "fit": "cover",
+        "position": "65% center",
+        "width": 1200,
+        "height": 675
+      }
     },
     {
       "slug": "diecast-trading-co",
@@ -65,7 +88,15 @@
       "email": "",
       "websiteLabel": "Visit Diecast Bids",
       "logo": "/assets/diecast-bids-logo.png",
-      "logoAlt": "Diecast Bids"
+      "logoAlt": "Diecast Bids",
+      "hero": {
+        "src": "/assets/diecast-bids-logo.png",
+        "alt": "Diecast Bids illuminated sports car graphic",
+        "fit": "contain",
+        "background": "#101a24",
+        "width": 512,
+        "height": 348
+      }
     },
     {
       "slug": "allpointsnostatus",
@@ -79,7 +110,14 @@
       "instagram": "https://www.instagram.com/allpointsnostatus/",
       "email": "",
       "logo": "/assets/all-points-no-status-logo.svg",
-      "logoAlt": "All Points No Status"
+      "logoAlt": "All Points No Status",
+      "hero": {
+        "src": "/assets/allpoints-business-hero.jpg",
+        "alt": "All Points No Status graphic: Stop dreaming about points. Start flying on them.",
+        "fit": "contain",
+        "width": 1200,
+        "height": 630
+      }
     }
   ],
   "abn": "65 684 524 669"
