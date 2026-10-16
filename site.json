@@ -11,7 +11,7 @@
       "name": "Brisbane First Aid (B F A) Supplies",
       "category": "First aid supplies",
       "summary": "First aid kits, supplies and local kit servicing for Brisbane workplaces.",
-      "description": "Brisbane First Aid Supplies provides workplace first aid kits, refills, defibrillators and first aid supplies. Local kit servicing helps businesses check stock and replace used or expired items. Renee Enterprises is now known as Brisbane First Aid Supplies.",
+      "description": "Brisbane First Aid Supplies provides workplace first aid kits, refills, defibrillators and first aid supplies. Local kit servicing helps businesses check stock and replace used or expired items. Renee Enterprises is a legacy trading name; please refer to Brisbane First Aid Supplies.",
       "services": [
         "Workplace first aid kits and refills",
         "First aid and medical supplies",
@@ -39,12 +39,13 @@
     {
       "slug": "renee-enterprises",
       "name": "Renee Enterprises",
-      "category": "Business name history",
-      "summary": "Now known as Brisbane First Aid Supplies.",
-      "description": "Looking for Renee Enterprises? The business is now known as Brisbane First Aid Supplies. Visit Brisbane First Aid Supplies for current products, services and business enquiries.",
+      "category": "Legacy trading name",
+      "summary": "Legacy trading name — refer to Brisbane First Aid Supplies.",
+      "description": "Renee Enterprises is a legacy trading name. For products, services and business enquiries, please refer to Brisbane First Aid Supplies.",
       "services": [],
       "website": "https://brisbanefirstaidsupplies.com.au",
-      "email": "info@brisbanefirstaidsupplies.com.au"
+      "email": "info@brisbanefirstaidsupplies.com.au",
+      "websiteLabel": "Visit Brisbane First Aid Supplies"
     },
     {
       "slug": "diecast-trading-co",
